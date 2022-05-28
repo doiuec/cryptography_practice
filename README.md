@@ -1,2 +1,2 @@
 # cryptography_practice
-<p>ただの練習帳</p>
+<p>ただの自分用練習帳</p>
